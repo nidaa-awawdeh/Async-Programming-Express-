@@ -1,6 +1,7 @@
 # Async-Programming-Express-
-
+ <h3>link challenge and workshop </h3>
  <h4>https://hackmd.io/uHfemtDRQBu7gQca2mU1-w?both </h4>
+ <h4>https://github.com/GSG-G8/mc-promise-me-this</h4>
 <ul>
    <p> <strong>What is async function </strong> </p>
    <li> <p> The async function declaration defines an asynchronous function — a function that is an AsyncFunction object. Asynchronous functions operate in a separate order than the rest of the code via the event loop, returning an implicit Promise as its result. But the syntax and structure of code using async functions looks like standard synchronous functions. </p> </li>
@@ -45,9 +46,13 @@ However, the await calls still run in series, which means the second await will 
  <p> Promises are a more modern solution to async operations than callback. They are cleaner and more reliable and readable than callbacks. Think of them as an abstraction over callbacks that gives us more functionality.</p>
   </li>
 
- <hr>
+ <hr> 
+ <p> note : you can see week3 project to see how xhr do </p>
 <h3> resource </h3>
 <ol>
  <li><p>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function 
 </p> </li>
-<li>https://www.geeksforgeeks.org/node-js-callback-concept/ </li> </ol>
+<li>https://www.geeksforgeeks.org/node-js-callback-concept/ </li>
+<li>https://www.tutorialsteacher.com/mvc/mvc-architecture </li>
+
+ </ol>
